@@ -50,7 +50,7 @@ class Admin extends Admin_Controller
             'content',
             'philsquare_content',
             $limit,
-            'admin/content',
+            'admin/content/index',
             true,
             $extra
         );
